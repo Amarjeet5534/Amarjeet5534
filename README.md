@@ -10,7 +10,6 @@ B.Tech CSE Student | Aspiring Software Developer<br><br>Passionate about buildin
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Amarjeet5534&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Amarjeet5534&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Amarjeet5534&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Amarjeet5534&theme=radical&no-frame=false&no-bg=true&margin-w=4)
